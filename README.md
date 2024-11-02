@@ -19,3 +19,7 @@
 1. **Деление на 0**
    - Описание: В этой статье рассматривается концепция деления на ноль и вводится новое число $\psi$, которое при умножении на 0 дает 1.
    - [Читать статью](https://github.com/DanilaKouzmenko/Math-Articles/blob/main/zerodivision.md)
+
+1. **Непонимание Математики**
+   - Описание: В этой статье рассматриваются причины, почему так много людей не понимают математику
+   - [Читать статью](https://github.com/DanilaKouzmenko/Math-Articles/blob/main/misunderstanding.md)
